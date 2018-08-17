@@ -1,4 +1,21 @@
 # Functions exercsies
+Try to solve the following functions.
+To help you check if your implementation is returning the expected results, implement the result in the test files which are available in this folder.
+eg, to test the reverse function simply run
+```sh
+ruby reverse_test.rb
+
+=>
+Loaded suite reverse_test
+Started
+.
+Finished in 0.000482 seconds.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1 tests, 4 assertions, 0 failures, 0 errors, 0 pendings, 0 omissions, 0 notifications
+100% passed
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2074.69 tests/s, 8298.76 assertions/s
+```
 
 ### 1. The reverse function
 Try to solve this by recursively as well.
